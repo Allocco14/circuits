@@ -1,4 +1,4 @@
-name: golden_scenario_env
+name: circuits_env
 channels:
   - conda-forge
   - defaults
